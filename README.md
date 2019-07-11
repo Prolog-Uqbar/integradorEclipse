@@ -2,6 +2,8 @@
 
 _**Ejercicio tipo parcial Paradigma Lógico. Eclipse en Argentina**_
 
+![eclipse](eclipse.jpg)
+
 El dia del gran eclipse en Argentina, buscamos un buen lugar para verlo.
 
 Contamos con información de los lugares donde se ve el fenomeno natural:
